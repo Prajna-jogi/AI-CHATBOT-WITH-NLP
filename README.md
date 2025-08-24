@@ -36,4 +36,4 @@ In conclusion, the AI Chatbot with NLP project is not just an academic exercise 
 
 OUTPUT :
 
-
+<img width="1310" height="425" alt="Image" src="https://github.com/user-attachments/assets/af75ee6f-1bb8-47dc-b3d1-905e56810495" />
